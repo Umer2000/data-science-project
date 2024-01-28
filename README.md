@@ -1,2 +1,2 @@
-# New_project
+# first_repo
 Python
